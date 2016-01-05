@@ -6,6 +6,7 @@ public class Test01 {
 		System.out.println("hello git 01");
 		System.out.println("hello git 02");
 		System.out.println("giyhub update 02");
+		System.out.println("local update 01");
 		System.out.println("local update 02");
 	}
 	
